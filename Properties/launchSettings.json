@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ResxTranslate": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\flame\\source\\repos\\MauiApp\\TestMauiApp\\Properties\\Resource.resx"
+    }
+  }
+}
